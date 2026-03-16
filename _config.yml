@@ -1,1 +1,7 @@
-title: 
+title:  Ciekawostki o świecie
+theme: minima
+
+minima:
+  nav_pages:
+    - index.md
+    - o-mnie.md
