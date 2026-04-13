@@ -14,3 +14,6 @@ Co warto wiedzieć o Hawajach?
 - narodowym kwiatem Hawajów jest żółty hibiskus, który symbolizuje piękno, radość i szczęście (wybrano go ze względu na jego unikalność i występowanie na wyspach)
   
 ![Nazwa obrazu/alternatywny tekst](https://sklep.e-palmy.pl/userdata/public/gfx/2649/IMG_4963.jpg)
+
+- słynny taniec hula to tak naprawdę taniec wymyślony przez polinezyjczyków, jest częścią praktyk religijnych oraz elementem tożsamości hawajczyków
+- istotną częścią życia plemienngo jest tatuowanie, im więcej tatuaży, tym wyżej postawiona rangą osoba
