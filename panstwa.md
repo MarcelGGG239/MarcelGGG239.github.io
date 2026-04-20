@@ -17,3 +17,9 @@ Co warto wiedzieć o Hawajach?
 
 - słynny taniec hula to tak naprawdę taniec wymyślony przez polinezyjczyków, jest częścią praktyk religijnych oraz elementem tożsamości hawajczyków
 - istotną częścią życia plemienngo jest tatuowanie, im więcej tatuaży, tym wyżej postawiona rangą osoba
+
+# Nauru
+
+Nauru stanowi trzecie najmniejsze państwo świata pod względem powierzchni, zaraz po Watykanie oraz Monako. Jest małym, wyspiarskim państem zlokalizowanym na Oceanie Pacyficznym w regionie Oceanii, które zwłaszcza ze względu na swoją mała powierzchnię, zmaga się z pewnym ważnym problemem. Państwo zagrożone jest przez podnoszący się poziom wód oceanicznych, który doprowadzić może do całkowitego zniknięcia wyspy. W przypadku zdarzenia się takiego scenariusza, w australijkim mieście - Melborune, znajduje się 52-piętrowy budynek - Nauruhouse mogący na wypadek nieszczęścia wszystkich mieszkańcow tego malutkiego państwa.
+
+# Tuvalu
