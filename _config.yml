@@ -3,7 +3,7 @@ theme: minima
 
 minima:
   nav_pages:
-    - strona-glowna.md
+    - panstwa.md
     - index.md
     - ciekawostka-dnia.md
     - o-nas.md
