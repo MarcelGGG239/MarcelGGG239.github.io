@@ -1,10 +1,22 @@
 # Państwa
 Na naszej stronie znajdują się ciekawostki o różnych państwach świata, których nie znajdziecie nigdzie indziej! 
-
+Państwa, o których znajdziecie ciekawostki:
+- Nauru
+- Tuvalu
+- USA
+  
 ![Nazwa obrazu/alternatywny tekst](https://www.szkolneinspiracje.pl/wp-content/uploads/2018/01/kontynenty-kontury.png)
 
+# Nauru
 
-# Hawaje
+Nauru stanowi trzecie najmniejsze państwo świata pod względem powierzchni, zaraz po Watykanie oraz Monako. Jest małym, wyspiarskim państem zlokalizowanym na Oceanie Pacyficznym w regionie Oceanii, które zwłaszcza ze względu na swoją mała powierzchnię, zmaga się z pewnym ważnym problemem. Państwo zagrożone jest przez podnoszący się poziom wód oceanicznych, który doprowadzić może do całkowitego zniknięcia wyspy. W przypadku zdarzenia się takiego scenariusza, w australijkim mieście - Melborune, znajduje się 52-piętrowy budynek - Nauruhouse mogący na wypadek nieszczęścia wszystkich mieszkańcow tego malutkiego państwa.
+
+![Mapa Nauru](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
+
+
+# Tuvalu
+
+# USA
 Dziś Hawaje są jednym ze stanów USA (jedynym położonym poza kontynentem), kiedyś były jednak niezależnym państwem. Powstały na skutek aktywności wulkanicznej, występującej tam plamy gorąca. Na wyspy przeyjeżdzają tysiace turystów w ciągu całego roku. Od stycznia do marca można wypatrywać wielorybów, od czerwca do września jest najbardziej słonecznie, a miesiące od kwietnia do grudnia najlepiej nadają się dla aktywnych turystów pragnących jak najwięcej zwiedzić. 
 
 ![Nazwa obrazu/alternatywny tekst](https://novatour.pl/wp-content/uploads/2025/05/raj-na-ziemi-hawaje-oahu-wylot-z-warszawy-wiek-12-19-lat-a1-931-2.webp)
@@ -17,12 +29,3 @@ Co warto wiedzieć o Hawajach?
 
 - słynny taniec hula to tak naprawdę taniec wymyślony przez polinezyjczyków, jest częścią praktyk religijnych oraz elementem tożsamości hawajczyków
 - istotną częścią życia plemienngo jest tatuowanie, im więcej tatuaży, tym wyżej postawiona rangą osoba
-
-# Nauru
-
-Nauru stanowi trzecie najmniejsze państwo świata pod względem powierzchni, zaraz po Watykanie oraz Monako. Jest małym, wyspiarskim państem zlokalizowanym na Oceanie Pacyficznym w regionie Oceanii, które zwłaszcza ze względu na swoją mała powierzchnię, zmaga się z pewnym ważnym problemem. Państwo zagrożone jest przez podnoszący się poziom wód oceanicznych, który doprowadzić może do całkowitego zniknięcia wyspy. W przypadku zdarzenia się takiego scenariusza, w australijkim mieście - Melborune, znajduje się 52-piętrowy budynek - Nauruhouse mogący na wypadek nieszczęścia wszystkich mieszkańcow tego malutkiego państwa.
-
-![Mapa Nauru](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
-
-
-# Tuvalu
