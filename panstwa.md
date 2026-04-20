@@ -1,11 +1,15 @@
 # Państwa
 Na naszej stronie znajdują się ciekawostki o różnych państwach świata, których nie znajdziecie nigdzie indziej! 
 Państwa, o których znajdziecie ciekawostki:
+- Chile
 - Nauru
-- Tuvalu
 - USA
   
 ![Nazwa obrazu/alternatywny tekst](https://www.szkolneinspiracje.pl/wp-content/uploads/2018/01/kontynenty-kontury.png)
+
+# Chile
+
+Chile stanowi bardzo rozciągnięte równoleżnikowo państwo, które stanowi bogactwo fauny i flory Ameryki Południowej. Znajduje sie tu bardzo tu dużo, zróżnicowanych formacji roślinnych jak pustynie mgielne, lasy cypryśnikowe, lasy magellańskie czy tundra. Każda z nich charakteryzuje się swoim własnym klimatem oraz występującymi w nich gatunkami zwierząt. Kiedy zestawimy Chile z Europą, rozciąga się od Malty, aż za półocne krańce Norwegii, co faktycznie uzmysłowuje faktyczny rozmiar tego ciekawego państwa.
 
 # Nauru
 
@@ -13,10 +17,8 @@ Nauru stanowi trzecie najmniejsze państwo świata pod względem powierzchni, za
 
 ![Mapa Nauru](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
 
-
-# Tuvalu
-
 # USA
+
 Dziś Hawaje są jednym ze stanów USA (jedynym położonym poza kontynentem), kiedyś były jednak niezależnym państwem. Powstały na skutek aktywności wulkanicznej, występującej tam plamy gorąca. Na wyspy przeyjeżdzają tysiace turystów w ciągu całego roku. Od stycznia do marca można wypatrywać wielorybów, od czerwca do września jest najbardziej słonecznie, a miesiące od kwietnia do grudnia najlepiej nadają się dla aktywnych turystów pragnących jak najwięcej zwiedzić. 
 
 ![Nazwa obrazu/alternatywny tekst](https://novatour.pl/wp-content/uploads/2025/05/raj-na-ziemi-hawaje-oahu-wylot-z-warszawy-wiek-12-19-lat-a1-931-2.webp)
