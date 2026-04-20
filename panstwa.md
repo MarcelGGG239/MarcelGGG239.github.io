@@ -7,7 +7,7 @@ Państwa, o których znajdziecie ciekawostki:
   
 ![Nazwa obrazu/alternatywny tekst](https://www.szkolneinspiracje.pl/wp-content/uploads/2018/01/kontynenty-kontury.png)
 
-# Chile
+# Chile - rozciagłość
 
 Chile stanowi bardzo rozciągnięte równoleżnikowo państwo, które stanowi bogactwo fauny i flory Ameryki Południowej. Znajduje sie tu bardzo tu dużo, zróżnicowanych formacji roślinnych jak pustynie mgielne, lasy cypryśnikowe, lasy magellańskie czy tundra. Każda z nich charakteryzuje się swoim własnym klimatem oraz występującymi w nich gatunkami zwierząt. Kiedy zestawimy Chile z Europą, rozciąga się od Malty, aż za półocne krańce Norwegii, co faktycznie uzmysłowuje faktyczny rozmiar tego ciekawego państwa.
 
