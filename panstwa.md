@@ -1,4 +1,4 @@
-# Państwa
+# Co u Nas znajdziesz?
 Na naszej stronie znajdują się ciekawostki o różnych państwach świata, których nie znajdziecie nigdzie indziej! 
 Państwa, o których znajdziecie ciekawostki:
 - Chile
