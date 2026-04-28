@@ -28,14 +28,14 @@ Chile stanowi bardzo rozciągnięte równoleżnikowo państwo, które stanowi bo
 Nauru stanowi trzecie najmniejsze państwo świata pod względem powierzchni, zaraz po Watykanie oraz Monako. Jest małym, wyspiarskim państem zlokalizowanym na Oceanie Pacyficznym w regionie Oceanii, które zwłaszcza ze względu na swoją mała powierzchnię, zmaga się z pewnym ważnym problemem. Państwo zagrożone jest przez podnoszący się poziom wód oceanicznych, który doprowadzić może do całkowitego zniknięcia wyspy. W przypadku zdarzenia się takiego scenariusza, w australijkim mieście - Melborune, znajduje się 52-piętrowy budynek - Nauruhouse mogący na wypadek nieszczęścia wszystkich mieszkańcow tego malutkiego państwa.
 
 ![Mapa Nauru/Mapa ogólna państwa Nauru](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
-[Źródłó](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
+[Źródło](https://upload.wikimedia.org/wikipedia/commons/7/77/Nauru_map_english.svg)
 
 # Hawaje (USA) - Aloha vibes only
 
 Dziś Hawaje są jednym ze stanów USA (jedynym położonym poza kontynentem), kiedyś były jednak niezależnym państwem. Powstały na skutek aktywności wulkanicznej, występującej tam plamy gorąca. Na wyspy przeyjeżdzają tysiace turystów w ciągu całego roku. Od stycznia do marca można wypatrywać wielorybów, od czerwca do września jest najbardziej słonecznie, a miesiące od kwietnia do grudnia najlepiej nadają się dla aktywnych turystów pragnących jak najwięcej zwiedzić. 
 
 ![Hawaje/Zdjęcie przedstawiające fizycznogeograficzne warunki na Hawajach, miasto, ocean oraz wniesienia](https://novatour.pl/wp-content/uploads/2025/05/raj-na-ziemi-hawaje-oahu-wylot-z-warszawy-wiek-12-19-lat-a1-931-2.webp)
-[Źródłó](https://novatour.pl/wp-content/uploads/2025/05/raj-na-ziemi-hawaje-oahu-wylot-z-warszawy-wiek-12-19-lat-a1-931-2.webp)
+[Źródło](https://novatour.pl/wp-content/uploads/2025/05/raj-na-ziemi-hawaje-oahu-wylot-z-warszawy-wiek-12-19-lat-a1-931-2.webp)
 
 Co warto wiedzieć o Hawajach? 
 - na znak przyjaźni przybyszom wręczany jest wianek bądż naszyjnik z kwiatów lei, tradycyjnie wręczany jest także na uroczystości (urodziny, śluby), stanowi również popularną ozdobą na hawajskie imprezy tematyczne
